@@ -1,0 +1,3 @@
+six
+whale-api
+requests
